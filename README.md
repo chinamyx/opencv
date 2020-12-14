@@ -1,3 +1,7 @@
+https://www.youtube.com/watch?v=R7B8sSByZGQ
+
+
+
 ## OpenCV: Open Source Computer Vision Library
 
 ### Resources
